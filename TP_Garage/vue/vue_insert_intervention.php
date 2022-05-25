@@ -4,11 +4,11 @@
   <table>
     <tr>
       <td>Date Intervention : </td>
-      <td><input type="text" name="dateinter"></td>
+      <td><input type="date" name="dateinter"></td>
     </tr>
     <tr>
       <td>Heure : </td>
-      <td><input type="text" name="heure"></td>
+      <td><input type="time" name="heure"></td>
     </tr>
     <tr>
       <td>Prix : </td>
